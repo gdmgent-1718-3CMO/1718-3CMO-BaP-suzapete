@@ -19,10 +19,9 @@ title: Logo
 </div>
 
 <div class="container">
-<h2>BEELD + WOORDMERK</h2>
-
 <div class="row">
 <div class="col-4">
+<h2>BEELD + WOORDMERK</h2>
 <p>Ons logo bevat zowel een beeldmerk als een woordmerk die met elkaar verweven zijn binnen het ontwerp.</p>
 <p>Zorg ervoor dat je de juiste afstand gebruikt tussen beide onderdelen.</p>
 
@@ -37,7 +36,7 @@ title: Logo
 
 <div class="container" id="grijs">
 <h2>MINIMALE VRIJE RUIMTE</h2>
-<p>Bij het gebruiken van ons logo moet de minimale vrije ruimte omheen het logo gerespecteerd worden. Deze ruimte moet dan ook in alle situaties leeg gehouden worden.</p>
+<p>Bij het gebruiken van ons logo moet de minimale vrije ruimte omheen het logo gerespecteerd worden.<BR> Deze ruimte moet dan ook in alle situaties leeg gehouden worden.</p>
 
 <div class="row"> 
 <div class="col-4"> 
@@ -62,16 +61,18 @@ Let er op dat je het logo NIET in kleur aanpast, schuintrekt, vervormt, de eleme
 
 <h2>LOGO VARIANTEN</h2>
 
-<p>Om ervoor te zorgen dat ons logo blijft opvallen op een foto of donkere achtergrond hebben we 1 standaard logo en twee varianten voorzien. Deze varianten zijn goedgekeurd en mogen gebruikt worden.</p>
+<p>Om ervoor te zorgen dat ons logo blijft opvallen op een foto of donkere achtergrond hebben we <br>1 standaard logo en twee varianten voorzien. Deze varianten zijn goedgekeurd en mogen gebruikt worden.</p>
 
 <img src="images/voorbeelden/logo4.png" alt="logo" class="w-100">
+<button class="buttondownload" type="button">download</button>
 
 <h2>LOGO ZWART-WIT</h2>
 <img src="images/voorbeelden/logo5.png" alt="logo" class="w-100">
+<button class="buttondownload" type="button">download</button>
 
 <h2>LOGO EN POSITIE</h2>
 
-<p>Het logo moet altijd grenzen aan de rand van het document in de linker bovenhoek of de rechter onderhoek. Het logo neemt 2x de breedte in van de marge. Wanneer de marge 20 mm is, zal het logo 40 mm breed zijn.</p>  
+<p>Het logo moet altijd grenzen aan de rand van het document in de linker bovenhoek of de rechter onderhoek.<br> Het logo neemt 2x de breedte in van de marge. Wanneer de marge 20 mm is, zal het logo 40 mm breed zijn.</p>  
 
 <div class="container">
 <div class="row">
@@ -111,7 +112,7 @@ Let er op dat je het logo NIET in kleur aanpast, schuintrekt, vervormt, de eleme
 <img src="images/voorbeelden/logo8.png" alt="logo" class="w-50">
 </div>
 
-<div class="col-6">
+<div class="col-5 offset-1">
 <img src="images/voorbeelden/logo6.png" alt="logo" class="w-100">
 </div>
 </div>

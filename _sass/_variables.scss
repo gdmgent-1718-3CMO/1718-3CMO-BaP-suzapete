@@ -95,13 +95,15 @@ $font-weight-bold: 800;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     margin-top:50px;
+    margin-bottom: 100px;
 }
 
 .rodetekst{
     color: $mycolor-1;
     font-weight: bold;
+    padding-top: 20px;
 }
 
 .table{
