@@ -1,8 +1,8 @@
 ---
 layout: vertical
-permalink: gebruik
+permalink: /gebruik
 published: true
-title:  Stijlgids voor het gebruik
+title:  Gebruik
 ---
 
 <h1>GEBRUIK</h1>
