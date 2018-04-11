@@ -9,43 +9,36 @@ body {
     color: $body-color;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: $myfont-family-title;
-    font-weight: $font-weight-bold;
-}
-
-
 h1 {
     font-weight: $font-weight-bold;
-    font-size: 50px;
-    color: $mycolor-2;
-    padding-top: 40px;
-    padding-bottom: 20px;
-}
-h2 {
-    font-weight: $font-weight-light;
-    font-size: 25px;
-    margin: 2rem 0 1rem;
+    font-size: 40px;
     color: $mycolor-1;
     padding-top: 40px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
-h3, h4, h5, h6 {
+
+h2 {
+    font-weight: $font-weight-bold;
+    font-size: 20px;
+    color: $mycolor-1;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+h4, h5, h6 {
     font-size: 1rem;
     font-weight: $font-weight-bold;
-    margin-top: 0rem;
-    margin-bottom: 2rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
     color: $mycolor-2;
 }
+
 p{
-    padding-top: 2px;
-    padding-bottom: 0px;
-}
-img{
-    padding-top: 20px;
+    padding-top:0px;
     padding-bottom: 20px;
 }
 
+img{padding-top:50px;}
 
 a {
     text-decoration: none;
@@ -64,6 +57,7 @@ a {
         background-color: $color-white;
     }
 }
+
 blockquote {
     padding-left: 24px;
     border-left: 2px solid $mycolor-3;
@@ -113,9 +107,16 @@ main ol {
 
 //forms 
 button, a.btn {
-    
+    background-color:$mycolor-1;
+    color: $color-white;
+    width:97px;
+    height: 37px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+
     &:hover{
-    background-color: $mycolor-2;
+    background-color:$mycolor-4;
     color: aliceblue;    
     }
     &:active{

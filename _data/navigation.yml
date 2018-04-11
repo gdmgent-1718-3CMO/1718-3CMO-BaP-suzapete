@@ -24,3 +24,9 @@
   # folder: pages/stijlgids
   permalink: /stijlgids
   # fa-icon: icon-info
+
+  - name: gebruik
+  description: gebruik
+  # folder: pages/gebruik/
+  permalink: gebruik/
+  # fa-icon: icon-info
