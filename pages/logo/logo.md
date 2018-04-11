@@ -1,5 +1,5 @@
 ---
-layout: vertical
+layout: horizontal
 permalink: /logo
 published: true
 title: Logo
