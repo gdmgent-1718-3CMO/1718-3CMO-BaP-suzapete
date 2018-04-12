@@ -57,7 +57,7 @@ title: Logo
 <img src="images/voorbeelden/logo3.png" alt="logo" class="w-100">
 
 <div class="wittetekst"><p><strong>MAAK GEEN EIGEN LOGO'S!</strong><br>
-Let er op dat je het logo NIET in kleur aanpast, schuin trekt, vervormt, de elementen uit elkaar trekt, effecten toepast, extra typografie toevoegt of het font aanpast. Er moet voldoende contrast zijn tussen het logo en de achtergrond. </P> </div>
+Let er op dat je het logo NIET in kleur aanpast, schuin trekt, vervormt, de elementen uit elkaar trekt, effecten toepast, extra typografie toevoegt of het font aanpast.<br> Er moet voldoende contrast zijn tussen het logo en de achtergrond. </P> </div>
 
 <h2>LOGO VARIANTEN</h2>
 
