@@ -25,7 +25,7 @@ title: Logo
 <p>Ons logo bevat zowel een beeldmerk als een woordmerk die met elkaar verweven zijn binnen het ontwerp.</p>
 <p>Zorg ervoor dat je de juiste afstand gebruikt tussen beide onderdelen.</p>
 
-<p>De lijn die de onderste punten van het beeldmerk verbind is ook de lijn die de bovenzijde van het woordmerk vormt. Deze  afstand moet altijd gerespecteerd worden!</p> 
+<p>De lijn die de onderste punten van het beeldmerk verbindt is ook de lijn die de bovenzijde van het woordmerk vormt. Deze  afstand moet altijd gerespecteerd worden!</p> 
 </div>
 
 <div class="col-8" align="right">
@@ -57,11 +57,11 @@ title: Logo
 <img src="images/voorbeelden/logo3.png" alt="logo" class="w-100">
 
 <div class="wittetekst"><p><strong>MAAK GEEN EIGEN LOGO'S!</strong><br>
-Let er op dat je het logo NIET in kleur aanpast, schuintrekt, vervormt, de elementen uit elkaar trekt, effecten toepast, extra typografie toevoegt of het font aanpast. Er moet voldoende contrast zijn tussen het logo en de achtergrond. </P> </div>
+Let er op dat je het logo NIET in kleur aanpast, schuin trekt, vervormt, de elementen uit elkaar trekt, effecten toepast, extra typografie toevoegt of het font aanpast. Er moet voldoende contrast zijn tussen het logo en de achtergrond. </P> </div>
 
 <h2>LOGO VARIANTEN</h2>
 
-<p>Om ervoor te zorgen dat ons logo blijft opvallen op een foto of donkere achtergrond hebben we <br>1 standaard logo en twee varianten voorzien. Deze varianten zijn goedgekeurd en mogen gebruikt worden.</p>
+<p>Om ervoor te zorgen dat ons logo blijft opvallen op een foto of donkere achtergrond hebben we <br>1 standaardlogo en twee varianten voorzien. Deze varianten zijn goedgekeurd en mogen gebruikt worden.</p>
 
 <img src="images/voorbeelden/logo4.png" alt="logo" class="w-100">
 <button class="buttondownload" type="button">download</button>
