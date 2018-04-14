@@ -66,29 +66,32 @@ $font-weight-bold: 800;
 #rood{
     color: $color-white;
     background-color: $mycolor-1;
-    padding-left: 100px;
-    padding-right:100px;
+    padding-left: 50px;
+    padding-right:50px;
     padding-bottom: 20px;
     margin-bottom: 50px;
 }
 
-#stappen{
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 200px;
-}
-
 #missie{
-    padding-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-bottom: 50px;
     padding-top: 30px;
-    margin-bottom: 50px;
-    margin-right: 500px;
+    margin-bottom: 100px;
+}
+
+#stappen{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-bottom: 0px;
     background-color:$color-grey-1;
 }
 
 #overons{
-    margin-left: 100px;
+    padding-left:50px;
+    padding-right:20px;
     margin-right: 100px;
     margin-bottom: 100px;
     margin-top: 100px;
