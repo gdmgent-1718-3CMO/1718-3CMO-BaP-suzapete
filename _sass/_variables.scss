@@ -98,10 +98,28 @@ $font-weight-bold: 800;
 }
 
 
-
 #roodtitel{
     color: $color-white;
     background-color: $mycolor-1;
+}
+
+#naamkaart{
+    margin-bottom:100px;
+    margin-top:100px;
+}
+
+#wegwijzer{
+    margin-top:150px;
+    margin-bottom:150px;
+}
+
+#nieuwsbrief{
+    margin-top:150px;
+    margin-bottom:150px;
+}
+
+#ledenbrochure{
+    margin-bottom:200px;
 }
 
 .random{
